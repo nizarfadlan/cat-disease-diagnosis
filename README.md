@@ -75,4 +75,4 @@ Clone this project
 ---
 
 ## Thanks to
-- Haidar Ikram Ramadhan (Ui)
+- Haidar Ikram Ramadhan (UI)
