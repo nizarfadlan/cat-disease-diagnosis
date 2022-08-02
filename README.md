@@ -70,3 +70,9 @@ Clone this project
 | View diagnosis history and print history result users |✅|
  
 ---
+
+---
+
+> **_NOTE:_**  Sorry this code is very messy because i only use it for learning and its use is not for production only study so sorry if the code is not clean or messy.
+
+---
