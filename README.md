@@ -33,7 +33,7 @@ don't forget ⭐️ :D
 
 ## Cat Disease Diagnosis
 
-![Preview Home Website](https://github.com/nizarfadlan/cat-disease-diagnosis/preview.png)
+![Preview Home Website](https://github.com/nizarfadlan/cat-disease-diagnosis/preview.png?raw=true&sanitize=true)
 This is an expert system program with the Dempster Shafer method created on a website using the PHP programming language. This expert system is to determine what disease in cats is through the symptoms suffered.
 
 ## Getting Started
