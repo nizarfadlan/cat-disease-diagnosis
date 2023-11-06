@@ -21,7 +21,7 @@
     <a href="https://trakteer.id/nizariyf" target="_blank"><img title="Trakteer" src="https://img.shields.io/badge/Trakteer-red?style=for-the-badge"></a>
     <a href="https://paypal.me/niyf1" target="_blank"><img title="Paypal" src="https://img.shields.io/badge/Paypal-blue?style=for-the-badge"></a>
  </p>
- 
+
 </details>
 
 don't forget ⭐️ :D
@@ -48,6 +48,25 @@ Clone this project
 > cd cat-disease-diagnosis
 > run web server and redirect path localhost to project
 ```
+
+### Set up database
+Import database to your MySQL
+
+```bash
+> create database dempster_shafer
+> import backup/dempster_shafer.sql to your MySQL
+> edit file modules/koneksi.php
+```
+
+---
+
+## Account
+### User admin
+  > Username: admin
+  > Password: admin
+### User
+  > Username: test
+  > Password: test
 
 ---
 
