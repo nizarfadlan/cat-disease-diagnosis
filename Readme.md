@@ -68,6 +68,8 @@ Import database to your MySQL
   > Username: test
   > Password: test
 
+---
+
 ## Features
 
 | User |Yes|
